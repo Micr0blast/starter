@@ -1,0 +1,1 @@
+This is a starting template for projects following AUP
