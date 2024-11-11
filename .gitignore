@@ -1,6 +1,7 @@
 ### copied from https://github.com/mapnik/sphinx-docs/blob/master/.gitignore 
-# sphinx build folder
-_build
+# sphinx _static and _templates folders
+_static
+_templates
 
 # Compiled source #
 ###################

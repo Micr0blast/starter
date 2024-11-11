@@ -15,3 +15,8 @@ class Greeting:
             utterance = self.greeting + "!"
         print(utterance)
 
+def main():
+    pass
+
+if __name__ == "__main__":
+    main()
